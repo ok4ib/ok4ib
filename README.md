@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Text based Games
-- 📫 How to not reach me ...
+- 📫 Sometimes I'm offline as well.
 
 <!---
 ok4ib/ok4ib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
